@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    width: 82px;
+}
+
+.card-link {
+    text-align: right;
+}
+
+.precios {
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+}
+
+.text-secondary {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 80;
+    color: #707070;
+}
+
+.text-secondary-2 {
+    font-size: 13px;
+    color: #707070;
+    font-weight: 80;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+
+@media (max-width: 992px) {}
+
+.footer img {
+    width: 82px;
+    padding-top: 30px;
+}
